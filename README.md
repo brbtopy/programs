@@ -1,7 +1,6 @@
 # randoms
-bARE programs i stored on cloud
-
-python programs i once created. could be of use to others
+python program to rename contents of a directory based on creation date of files
+first created file gets renamed first. second created file is renamed second. etc
 
 # How to use
-run python on terminal and include program name
+run python program from terminal
